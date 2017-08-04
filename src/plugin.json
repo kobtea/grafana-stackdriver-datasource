@@ -1,0 +1,23 @@
+{
+  "id": "kobtea-stackdriver-datasource",
+  "type": "datasource",
+  "name": "Stackdriver",
+  "info": {
+    "description": "Google Stackdriver datasource",
+    "author": {
+      "name": "kobtea",
+      "url": "https://github.com/kobtea"
+    },
+    "keywords": [
+      "gcp",
+      "stackdriver",
+      "datasource"
+    ],
+    "version": "0.1.0",
+    "updated": "2017-08-02"
+  },
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": []
+  }
+}
